@@ -1,0 +1,1 @@
+Traccia: Realizzare due programmi in C. Si scriva un programma che esegua l'operazione di moltiplicazione tra due numeri inseriti dall'utente e un programma in linguaggio C che legga due valori interi e visualizzi la loro media aritmetica.
